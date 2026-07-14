@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "build": "cd nextjs-dashboard && next build",
-    "dev": "cd nextjs-dashboard && next dev --turbopack",
-    "start": "cd nextjs-dashboard && next start"
+    "build": "next build",
+    "dev": "next dev --turbopack",
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
